@@ -1,0 +1,24 @@
+# Local outputs
+*.docx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# OS and editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local logs and temporary state
+*.log
+style-snapshot.json
+audit-report.json

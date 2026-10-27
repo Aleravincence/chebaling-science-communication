@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chebaling Science Communication"
+  short_description: "Sourced science DOCX with Chebaling house style"
+  default_prompt: "Create or revise a sourced Chinese science-popularization DOCX using the Chebaling house style, consistent figures and tables, and linked references."
