@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1 - 2026-10-29
+
+- Fixed figure and table caption detection when Chinese labels contain a space, for example `图 1` and `表 1`.
+
 All reusable changes to the skill are recorded here.
 
 ## 1.0.0 - 2026-10-27
