@@ -25,8 +25,8 @@ except ImportError as exc:
 
 CITE_RE = re.compile(r"\[\d+(?:[-,]\d+)*\]")
 REF_RE = re.compile(r"^\[(\d+)\]")
-FIG_RE = re.compile(r"^图\s*(\d+)\b")
-TABLE_RE = re.compile(r"^表\s*(\d+)\b")
+FIG_RE = re.compile(r"^图\s*(\d+)")
+TABLE_RE = re.compile(r"^表\s*(\d+)")
 DUP_RE = re.compile(r"(\[\d+(?:[-,]\d+)*\])\1+")
 
 
